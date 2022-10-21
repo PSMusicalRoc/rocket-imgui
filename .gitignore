@@ -13,6 +13,10 @@ examples/*/Debug/*
 examples/*/Release/*
 examples/*/x64/*
 
+bin
+bin-int
+*.vcxproj
+
 ## Visual Studio artifacts
 .vs
 ipch
